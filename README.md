@@ -1,7 +1,7 @@
 Color Scroll
 ============
 
-A super tiny jQuery plugin (~862B) to changes the background color as you scroll the page.
+A super tiny jQuery plugin (~862B) to change the background color as you scroll the page.
 
 ### How to use
 Add the script to the page
